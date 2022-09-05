@@ -1,5 +1,6 @@
 ## Hi, I'm Pedro Santana Ferraz de Oliveira
 
+- I'm used to study python,but i feel in love with web development
 - 👀 I’m interested in Web Developer
 - 📖 Now I'm studying JavaScript, Node.Js and React
 - 🌱 I’m currently learning HTML,CSS,JS
