@@ -1,10 +1,13 @@
-## Hi, I'm Pedro Santana Ferraz de Oliveira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Bem%20Vindo&height=200"/>
 
-- I'm used to study python,but i feel in love with web development
-- 👀 I’m interested in Web Developer
-- 📖 Now I'm studying JavaScript, Node.Js and React
-- 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on some projects and my own projects
+<h2 align="center">Meu nome é Pedro Santana Ferraz de Oliveira e sou programador Junior. Comecei a programar com 18 anos e comecei a me aprofundar na programação em 2021. Sou apaixonado por tecnologia, IA e desenvolvimento em geral. ✋</h2> <br>
+
+- Meu foco atualmente é em ser um FullStack, para desenvolvimento de sites ou de softwares;
+- Atualmente, conheço diversas linguagens de programação, incluindo Python, C# JavaScript;
+- Tive experiência com navegação autônoma e softwares de desenvolvimento com Python em um projeto da faculdade para desenvolvimento de um sistema embarcado autônomo;
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroSantanaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
   <a href="https://github.com/PedroSantanaa">
@@ -26,3 +29,5 @@
   <a href="https://www.instagram.com/pedro_santana16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedro.ferraz01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-santana-7305151a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=200"/>
