@@ -6,7 +6,9 @@
 - Meu foco atualmente é em ser um FullStack, para desenvolvimento de sites ou de softwares;
 - Atualmente, conheço diversas linguagens de programação, incluindo Python, C# JavaScript;
 - Tive experiência com navegação autônoma e softwares de desenvolvimento com Python em um projeto da faculdade para desenvolvimento de um sistema embarcado autônomo;
+- Também sou Gerente de Projetos na comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores.
 <br>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroSantanaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -36,6 +38,12 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </div>
+   
+   # Vacuum
+ [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
+ [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
+ [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
 
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=150"/>
