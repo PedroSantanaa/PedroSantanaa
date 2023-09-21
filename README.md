@@ -39,11 +39,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </div>
    
-   # Vacuum
- [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
- [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
- [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
+  <!--  #Vacuum-->
+ <!--[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
+ //[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
+ //[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
+//[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)-->
 
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=150"/>
