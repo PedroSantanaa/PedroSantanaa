@@ -6,7 +6,7 @@
 - Meu foco atualmente é em ser um FullStack, para desenvolvimento de sites ou de softwares;
 - Atualmente, conheço diversas linguagens de programação, incluindo Python, C# JavaScript;
 - Tive experiência com navegação autônoma e softwares de desenvolvimento com Python em um projeto da faculdade para desenvolvimento de um sistema embarcado autônomo;
-- Também sou Gerente de Projetos na comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores.
+- Era Gerente de Projetos e Desenvolvedor BackEnd na comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores.
 <br>
 
 
